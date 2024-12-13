@@ -1,2 +1,2 @@
-# learn_go_wexin
+# coolcar
 学习小程序开发
